@@ -22,5 +22,11 @@
         "psr-4": {
             ":vendor\\:package_name\\": "tests"
         }
-    }
+    },
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/bassam-nab/laravel-arabic-slug"
+		}
+	]
 }
